@@ -73,7 +73,7 @@ public class Escuela {
                 + "Materia 1: %.2f\nMateria 2: %.2f\nMateria 3: %.2f\n"
                 + "Obteniendo un promedio total de: %.2f",
                 obtenerNombreEstudiante(),
-                 obtenerCalificacionEstudiante1(),
+                obtenerCalificacionEstudiante1(),
                 obtenerCalificacionEstudiante2(),
                 obtenerCalificacionEstudiante3(), obtenerPromedio());
         return cadena;
